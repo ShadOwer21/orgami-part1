@@ -1,0 +1,18 @@
+h1{color:#ff0000;
+
+ }
+ 
+.header{ 
+    background-color:#00ffff;
+    display:flex ;
+    justify-content:space-between ;
+}
+.menu{
+    background-color: blueviolet;
+    display: flex;
+    justify-content:space-around;
+}
+     
+body{
+  background-color: darkgoldenrod;
+}
